@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  brandStrength: 0.6798347
+  lightness: 0.1025778
+  rhythmicContrast: 0.9199785
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.1412459
+name: PictureMe
