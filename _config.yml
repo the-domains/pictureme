@@ -1,14 +1,25 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 1
-  brandStrength: 0.6798347
   lightness: 0.1025778
-  rhythmicContrast: 0.9199785
+  brandStrength: 1
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#383A37'
+    - '#5B5D5A'
+    - '#878987'
+    - '#B4B5B3'
+  rhythmicContrast: 0.9199785
 typography_spectrum: 0.1412459
+layout_spectrum: 1
 name: PictureMe
