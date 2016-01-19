@@ -1,3 +1,7 @@
+name: PictureMe
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.1412459
 collections:
   - index:
       path: /
@@ -10,16 +14,26 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  lightness: 0.1025778
-  brandStrength: 1
   brandColors:
     - '#383A37'
     - '#5B5D5A'
     - '#878987'
     - '#B4B5B3'
+  brandStrength: 0.25
+  lightness: 0.1025778
+  saturation: 0.75
   rhythmicContrast: 0.9199785
-typography_spectrum: 0.1412459
-layout_spectrum: 1
-name: PictureMe
+purpose: []
