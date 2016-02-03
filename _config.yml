@@ -1,4 +1,5 @@
-layout_spectrum: 0.4656284
+favicon: null
+name: Picture Me
 opengraph:
   image: null
   type: null
@@ -17,24 +18,23 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.4699248
+  saturation: 0.5257788
   brandStrength: 1
-  lightness: 0
+  lightness: 0.4978518
   brandColors:
     - '#011F02'
     - '#FCFBFB'
     - '#B43931'
     - '#6E9177'
     - '#F1BD5D'
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5558539
 typography_spectrum: 0.1412459
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.4656284
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: Picture Me
+cta:
+  bucket: null
+  version: null
+  domain: null
