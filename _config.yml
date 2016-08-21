@@ -1,40 +1,40 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.5257788
+  saturation: 0.7996778
   brandStrength: 0.4871106
-  lightness: 0.4978518
+  lightness: 0.858754
   brandColors:
     - '#011F02'
     - '#FCFBFB'
     - '#B43931'
     - '#6E9177'
     - '#F1BD5D'
-  rhythmicContrast: 0.5558539
-typography_spectrum: 0.1412459
+  rhythmicContrast: 0.7577873
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.4656284
 favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Picture Me
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1412459
+layout_spectrum: 0.4656284
